@@ -18,7 +18,7 @@ Widgetbook Challenge Challenge!
 Download or clone this repo by using the link below:
 
 ```
-https://bitbucket.org/ubtconsults/go-health-mobile/src/master/
+https://github.com/TheSiyynndicate/widgetbook-challenge.git
 ```
 
 **Step 2:**
