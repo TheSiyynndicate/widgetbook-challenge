@@ -78,7 +78,7 @@ in this file i.e, theme, routes, title, orientation etc.
 
 ```dart
 
-// ignore_for_file: public_member_api_docs
+/// ignore_for_file: public_member_api_docs
 
 
 
